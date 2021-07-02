@@ -365,6 +365,24 @@ def main():
 
 # Simulates a pitch from first decision (whether runners steal) to the last (hitting the pitched ball)
 def simulate_pitch():
+    # Lots of importing to be done
+    global home_score
+    global away_score
+    global home_at_bat
+    global away_at_bat
+    global inning
+    global team_at_bat
+    global fielding_team
+    global outs
+    global strikes
+    global balls
+    global home_team
+    global away_team
+    global player_at_bat
+    global player_on_first
+    global player_on_second
+    global player_on_third
+
     # First see if base runners want to try to steal
     second_steal_sim()
 
@@ -424,6 +442,24 @@ def simulate_pitch():
 
 # Simulate whether the player on second wants to steal
 def second_steal_sim():
+    # Lots of importing to be done
+    global home_score
+    global away_score
+    global home_at_bat
+    global away_at_bat
+    global inning
+    global team_at_bat
+    global fielding_team
+    global outs
+    global strikes
+    global balls
+    global home_team
+    global away_team
+    global player_at_bat
+    global player_on_first
+    global player_on_second
+    global player_on_third
+
     # If there's nobody on second, that nobody can't steal
     if player_on_second == 0:
         return
@@ -473,6 +509,24 @@ def second_steal_sim():
 
 # Simulate whether the player on first wants to steal
 def first_steal_sim():
+    # Lots of importing to be done
+    global home_score
+    global away_score
+    global home_at_bat
+    global away_at_bat
+    global inning
+    global team_at_bat
+    global fielding_team
+    global outs
+    global strikes
+    global balls
+    global home_team
+    global away_team
+    global player_at_bat
+    global player_on_first
+    global player_on_second
+    global player_on_third
+
     # If there's nobody on first, that nobody can't steal
     if player_on_first == 0:
         return
@@ -515,6 +569,24 @@ def first_steal_sim():
 
 # At three outs, switch sides, update the inning, etc
 def end_half_inning():
+    # Lots of importing to be done
+    global home_score
+    global away_score
+    global home_at_bat
+    global away_at_bat
+    global inning
+    global team_at_bat
+    global fielding_team
+    global outs
+    global strikes
+    global balls
+    global home_team
+    global away_team
+    global player_at_bat
+    global player_on_first
+    global player_on_second
+    global player_on_third
+
     player_on_first = 0
     player_on_second = 0
     player_on_third = 0
