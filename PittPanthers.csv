@@ -1,0 +1,29 @@
+City,Team Name,,,,,,,,,,,,
+Pittsburgh,Panthers,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Number of Players,Number of Base Coaches,,,,,,,,,,,,
+9,2,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,Handedness,Jersey Number,Hit Strength,Throw Strength,Hit Consistency,Throw Consistency,Pitch Judgement,Speed,Reaction,Confidence,Cool,Risk Tolerance,Righty/Lefty Killer
+Enrique Palazzo,R,1,10,10,10,10,10,10,10,10,10,10,0
+Enrique Malazzo,S,2,10,10,3,10,10,10,10,10,10,10,0
+Enrique Balazzo,R,3,10,10,10,10,10,10,5,10,10,10,0
+Enrique Valazzo,R,4,10,10,10,10,8,10,10,10,10,10,0
+Enrique Galazzo,R,5,10,10,10,10,10,10,10,10,10,10,0
+Enrique Lalazzo,L,6,10,10,10,10,10,10,10,10,10,10,0
+Enrique Qalazzo,R,7,10,10,10,10,10,10,10,10,10,10,0
+Enrique Chialazzo,S,8,10,10,10,10,10,10,10,10,10,10,0
+Alexander Hamilton,R,9,10,10,10,10,10,10,10,10,10,10,0
+,,,,,,,,,,,,,
+Base Coach Name,Coach ID Number,Risk Tolerance,,,,,,,,,,,
+Enrique Falazzo,1,30,,,,,,,,,,,
+Enrique Dalazzo,2,30,,,,,,,,,,,
+,,,,,,,,,,,,,
+Pitcher,Catcher,1st Base,2nd Base,3rd Base,Short Stop,Left Field,Center Field,Right Field,,,,,
+1,2,3,4,5,6,7,8,9,,,,,
+,,,,,,,,,,,,,
+Batting Order,,,,,,,,,,,,,
+1,2,3,4,5,6,7,8,9,,,,,
+,,,,,,,,,,,,,
+1st Base Coach,3rd Base Coach,,,,,,,,,,,,
+1,2,,,,,,,,,,,,

@@ -1,0 +1,24 @@
+Create all classes [x]
+
+Create necessary variables [x]
+
+Implement game report [x]
+
+Implement stats command [x]
+
+Implement positions command [x]
+
+Implement substitute player [x]
+
+Simulate pitch []
+
+Simulate at-bat []
+
+Simulate team up []
+
+Simulate inning []
+
+Simulate game []
+
+Generate after-game report []
+
