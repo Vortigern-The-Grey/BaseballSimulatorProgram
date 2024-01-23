@@ -1,0 +1,29 @@
+City,"Team Name",,,,,,,,,,,,
+Baltimore,Crabs,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Number of Players","Number of Base Coaches",,,,,,,,,,,,
+9,2,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,Handedness,"Jersey Number","Hit Strength","Throw Strength","Hit Consistency","Throw Consistency","Pitch Judgement",Speed,Reaction,Confidence,Cool,"Risk Tolerance","Righty/Lefty Killer"
+"Norville 'Shaggy' Rogers",R,1,10,10,10,10,10,10,10,10,10,10,0
+"Dwayne 'The Rock' Johnson",S,2,10,10,3,10,10,10,10,10,10,10,0
+"Tillman Henderson",R,3,10,10,10,10,10,10,5,10,10,10,0
+"John Cena",R,4,10,10,10,10,8,10,10,10,10,10,0
+"Koichi 'Reliable' Hirose",R,5,10,10,10,10,10,10,10,10,10,10,0
+"Jotaro Kujo",L,6,10,10,10,10,10,10,10,10,10,10,0
+"Kira Yoshikage",R,7,10,10,10,10,10,10,10,10,10,10,0
+"Diego 'Za Warudo' Brando",S,8,10,10,10,10,10,10,10,10,10,10,0
+"Shaquille O'Neil",R,9,10,10,10,10,10,10,10,10,10,10,0
+,,,,,,,,,,,,,
+"Base Coach Name","Coach ID Number","Risk Tolerance",,,,,,,,,,,
+"Tony Hawk",1,30,,,,,,,,,,,
+Oprah,2,30,,,,,,,,,,,
+,,,,,,,,,,,,,
+Pitcher,Catcher,"1st Base","2nd Base","3rd Base","Short Stop","Left Field","Center Field","Right Field",,,,,
+1,2,3,4,5,6,7,8,9,,,,,
+,,,,,,,,,,,,,
+"Batting Order",,,,,,,,,,,,,
+1,2,3,4,5,6,7,8,9,,,,,
+,,,,,,,,,,,,,
+"1st Base Coach","3rd Base Coach",,,,,,,,,,,,
+1,2,,,,,,,,,,,,
