@@ -242,17 +242,17 @@ def main():
         if input_string == "help":
             recognized = 1
             print("Here are a list of commands. See the local README.txt for further information.")
-            print("quit")
-            print("help")
-            print("game_report")
-            print("positions")
-            print("stats <team> <player_jersey_number>")
-            print("substitute_player <position> <fresh_player_jersey_number> *")
-            print("simulate_pitch")
-            print("simulate_at_bat")
-            print("simulate_half_inning")
-            print("simulate_inning")
-            print("simulate_game")
+            print("quit") # Done
+            print("help") # Done
+            print("game_report") # Done
+            print("positions") # Done
+            print("stats <team> <player_jersey_number>") # Done
+            print("substitute_player <position> <fresh_player_jersey_number> *") #done
+            print("simulate_pitch") # Done
+            print("simulate_at_bat") #To Do
+            print("simulate_half_inning") # To Do
+            print("simulate_inning") # To Do
+            print("simulate_game") # To Do
             print()
             print("*For reference, the position names recognized by the simulator are 'catcher', 'pitcher', 'first_baseman', 'second_baseman', 'shortstop', 'third_baseman', 'right_fielder', 'center_fielder', 'left_fielder' (without the quotes).")
 
